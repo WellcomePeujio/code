@@ -1,2 +1,2 @@
-# code
-Compilation of Python programming codes 
+# CarPrediction on Python
+to predict the car price given some features
